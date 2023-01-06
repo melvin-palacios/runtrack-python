@@ -1,0 +1,1 @@
+fruits = ['pomme', 'cerise', 'orange']
